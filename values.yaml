@@ -111,5 +111,5 @@ spec:
     server: https://kubernetes.default.svc
   source:
     repoURL: https://github.com/snagaram3/TestRepo.git
-    targetRevision: HEAD
+    targetRevision: ./
     
